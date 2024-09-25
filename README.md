@@ -100,5 +100,6 @@ VMD Rendered Protein (PDB ID: 2KWF) Image here:
 
 VMD Rendered RNA (PDB ID: 1KF1) Image here:
 
+![Image 9-25-24 at 5 17 PM](https://github.com/user-attachments/assets/894e3e58-11d4-4f9f-be22-d32eee42a515)
 
 
